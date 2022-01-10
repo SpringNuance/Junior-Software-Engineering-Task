@@ -14,8 +14,8 @@ of the JWT is described in the documentation
 https://enablebanking.com/docs/tilisy/latest/#jwt-format-and-signature.
 
 Install python on your computer, open cmd and install pip with command
-curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
-after that, use pip to install the necessary libraries to run the application:
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py.
+After that, use pip to install the necessary libraries to run the application:
 pip install requests, jwt, dotenv, datetime
 
 Download this project file, and create a file called .env at the root of the project, with 2 properties:
