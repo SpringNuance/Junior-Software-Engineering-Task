@@ -26,9 +26,9 @@ KID="application-id"
 
 The private key and kid can be obtained from the instructions in the links above
 Run the program. It will generate a list of banks. 
-Please enter your name bank and countryID accurately like what is listed in the console. Otherwise it wouldn't work
+Please enter your name bank and countryID accurately like what is listed in the console. Otherwise it wouldn't work.
 After than, copy the generated authentication link and run it on the browser. You will be redirected to your registered redirect URL.
-Copy that redirected URL and paste it into the console as requested
+Copy that redirected URL and paste it into the console as requested by the console
 
 After authentication succeeds, you will be asked to input your bank IBAN number. 
 From this onwards, you can check your bank details, balances and your transactions in the last 30 days and your transaction summary
