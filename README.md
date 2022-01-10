@@ -21,7 +21,6 @@ pip install requests, jwt, dotenv, datetime
 Download this project file, and create a file called .env at the root of the project, with 2 properties:
 <br>
 RSA256_PRIVATE_KEY ="-----BEGIN PRIVATE KEY-----<private_key>-----END PRIVATE KEY-----"
-<br>
 KID="<application-id>"
 
 The private key and kid can be obtained from the instructions in the links above
