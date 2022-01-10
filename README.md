@@ -19,8 +19,8 @@ After that, use pip to install the necessary libraries to run the application:
 pip install requests, jwt, dotenv, datetime
 
 Download this project file, and create a file called .env at the root of the project, with 2 properties:
-RSA256_PRIVATE_KEY ="-----BEGIN PRIVATE KEY-----<private_key>-----END PRIVATE KEY-----"
-KID="<application-id>"
+<p>RSA256_PRIVATE_KEY ="-----BEGIN PRIVATE KEY-----<private_key>-----END PRIVATE KEY-----"
+KID="<application-id>"<p>
 
 The private key and kid can be obtained from the instructions in the links above
 Run the program. It will generate a list of banks. 
